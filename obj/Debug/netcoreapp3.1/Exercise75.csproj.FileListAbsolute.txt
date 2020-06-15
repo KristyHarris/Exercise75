@@ -1,0 +1,11 @@
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.exe
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.deps.json
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.runtimeconfig.json
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.runtimeconfig.dev.json
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.dll
+C:\Users\harri\source\repos\Exercise75\bin\Debug\netcoreapp3.1\Exercise75.pdb
+C:\Users\harri\source\repos\Exercise75\obj\Debug\netcoreapp3.1\Exercise75.csprojAssemblyReference.cache
+C:\Users\harri\source\repos\Exercise75\obj\Debug\netcoreapp3.1\Exercise75.AssemblyInfoInputs.cache
+C:\Users\harri\source\repos\Exercise75\obj\Debug\netcoreapp3.1\Exercise75.AssemblyInfo.cs
+C:\Users\harri\source\repos\Exercise75\obj\Debug\netcoreapp3.1\Exercise75.dll
+C:\Users\harri\source\repos\Exercise75\obj\Debug\netcoreapp3.1\Exercise75.pdb
